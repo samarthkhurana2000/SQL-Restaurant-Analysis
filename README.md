@@ -2,7 +2,7 @@
 Analysis of restaurant ratings data to gain insights into the performance of various restaurants.
 * Title :-        **Restaurant Ratings Analysis**
 * Created by :-   SAMARTH
-* Date :-         19-01-2023
+* Date :-         19-08-2023
 * Tool used:-     SQL(MY SQL WORKBENCH)
 
 # Introduction :- 
